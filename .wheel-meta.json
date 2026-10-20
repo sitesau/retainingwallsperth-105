@@ -1,0 +1,22 @@
+{
+  "wheel_id": 487,
+  "structure": "umbrella",
+  "slug": "retainingwallsperth-105",
+  "project": "retaining-wall-builders-perth-beginner-guide-875de6a96c9e3b2",
+  "parent_t1_ref": "retainingwallsperth-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperth.au",
+  "primary_kw": "retaining wall builders perth beginner guide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-perth-beginner-guide-875de6a96c9e3b2/",
+  "tier": "T2",
+  "writeback_nonce": "5c98e68fad8e6bb8",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-perth-f634aa3e729e3843dccb3e5a770ace837/",
+      "anchor": "Retaining Wall Builders Perth: A Practical Site Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
